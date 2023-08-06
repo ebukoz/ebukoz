@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebukoz
-- 👀 I’m interested in Building enterprise hospitality solutions
+- 👀 I’m interested in Building enterprise solutions that helps business scale
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Opensource project
 - 📫 Get in touch with me on Twiiter @ebukoz
